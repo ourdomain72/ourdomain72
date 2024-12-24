@@ -1,7 +1,8 @@
 
 Hello everyone, I’m Amin Mahmoodi.
 
-About Me
+🚀 About Me
+
 I am a Senior Software Engineer and the Manager of HoshaCo, a leading IT and programming company. With a strong passion for coding, I specialize in both web and Android development, delivering high-quality solutions tailored to meet diverse client needs. My expertise spans across various programming languages and technologies, allowing me to build robust and scalable applications.
 
 🌟 Currently leading HoshaCo, driving innovation in technology
